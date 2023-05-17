@@ -1,5 +1,7 @@
 # **Horizon Plan Week #1**
 
+---
+
 ## **Kyle**
 
 - Read OpenCV docs
